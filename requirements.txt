@@ -1,0 +1,7 @@
+openai
+transformers
+pandas
+beautifulsoup4
+requests
+faiss-cpu
+streamlit
